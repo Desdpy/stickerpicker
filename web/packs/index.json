@@ -1,6 +1,7 @@
 {
   "packs": [
-    "Cinnamoroll__All_Expressions.json"
+    "Cinnamoroll__All_Expressions.json",
+    "png.json"
   ],
   "homeserver_url": "https://synapse.matrix.desdpy.com"
 }
