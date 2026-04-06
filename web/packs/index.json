@@ -1,6 +1,17 @@
 {
   "packs": [
-    "Cinnamoroll__All_Expressions.json"
+    "Cinnamoroll__All_Expressions.json",
+    "Cat_girls_sticker_EN.json",
+    "Jirachi_sprites_and_portraits_pack.json",
+    "Rosy.json",
+    "TUYU_Sticker.json",
+    "iyashibainu____cutestickers4you.json",
+    "_BunnyxPack.json",
+    "fluffy_marshmallow_bunny__deazzle.json",
+    "sanrio.json",
+    "sOft_rabbit_nyawrwar.json",
+    "dream_cute_stickers_emoji.json",
+    "softsticks.json"
   ],
   "homeserver_url": "https://synapse.matrix.desdpy.com"
 }
